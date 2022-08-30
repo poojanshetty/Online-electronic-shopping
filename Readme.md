@@ -1,13 +1,13 @@
-Simple Project:
+# Online Electronic Shopping Project:
  
 The online shopping website for only electronics like iphone, macbook  eic., A basic project in Flask and SqlAlchemy 
 
-Run project:
+## Run project:
 
-Activate virtual environment: source venv/bin/activate
+1.) Activate virtual environment: source venv/bin/activate
 
-Run project: python run.py or python3 run.py
+2.) Run project: python run.py or python3 run.py
 
-Home Page: 
+### Home Page: 
 
 ![img.png](img.png)

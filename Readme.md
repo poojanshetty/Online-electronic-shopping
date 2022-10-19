@@ -4,9 +4,13 @@ The online shopping website for only electronics like iphone, macbook  eic., A b
 
 ## Run project:
 
-1.) Activate virtual environment: source venv/bin/activate
+1.) Activate virtual environment: 
 
-2.) Run project: python run.py or python3 run.py
+        >>   source venv/bin/activate
+
+2.) To run project: 
+
+        >>   python run.py or python3 run.py
 
 ### Home Page: 
 

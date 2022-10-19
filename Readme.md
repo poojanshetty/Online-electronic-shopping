@@ -1,6 +1,7 @@
 # Online Electronic Shopping Project:
  
-The online shopping website for only electronics like iphone, macbook  eic., A basic project in Flask and SqlAlchemy 
+A basic project on Python using Flask and SqlAlchemy. 
+The online shopping website for only electronics like iphone, macbook  eic.,  
 
 ## Run project:
 
